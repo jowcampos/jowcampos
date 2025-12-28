@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Jow 👋
 
-<!--
-**jowcampos/jowcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am a QA Engineer focused on test automation, performance, and software availability. I have experience with test strategies, CI pipeline integration, observability, and designing tests for REST APIs and mobile applications. <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jowcampos&repo=vulnerabilities-api)](https://github.com/jowcampos/vulnerabilities-api)
 
-Here are some ideas to get you started:
+🔭 I am currently working with the following tools and frameworks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tools & Frameworks    | Observability    | Performance & Security | Languages  |
+|-----------------------|------------------|------------------------|------------|
+| Appium                | Snyk             | Burp Suite             | JavaScript |
+| Robot Framework       | Chrome DevTools  | OWASP                  | SQL        |
+| REST Assured          | Datadog          | PA-DSS                 | Go         |
+| Newman                | Firebase         | PCI DSS                | Bash       |
+| Maestro               | Grafana          | K6                     |            |
+| Gherkin (BDD)         | OpenTelemetry    |                        |            |
+| Cypress               | -                |                        |            |
+
