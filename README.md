@@ -3,7 +3,7 @@ Focused on test automation, performance, and software availability. Experience w
 
 ---
 
-### Test Strategy & Coverage
+#### Test Strategy & Coverage
 ![Test Pyramid](https://img.shields.io/badge/Test_Pyramid-grey?style=flat)
 ![Regression Testing](https://img.shields.io/badge/Regression_Testing-grey?style=flat)
 ![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-grey?style=flat)
@@ -12,9 +12,9 @@ Focused on test automation, performance, and software availability. Experience w
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-grey?style=flat)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-grey?style=flat)
 ![BDD](https://img.shields.io/badge/BDD-23D96C?style=flat)
-![TDD](https://img.shields.io/badge/TDD-grey?style=flat)
+![CT-MAT](https://img.shields.io/badge/CT-MAT-grey?style=flat)
 
-### Frameworks & Tools
+#### Frameworks & Tools
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-00BFFF?style=flat)
@@ -23,17 +23,14 @@ Focused on test automation, performance, and software availability. Experience w
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![PIT Mutation](https://img.shields.io/badge/Mutation_Testing-grey?style=flat)
 
-### CI/CD & DevOps
+#### CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Observability & Monitoring
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 ### Performance & Security
