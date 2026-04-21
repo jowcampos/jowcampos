@@ -20,9 +20,7 @@ Focused on test automation, performance, and software availability. Experience w
 ![REST Assured](https://img.shields.io/badge/REST_Assured-00BFFF?style=flat)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=flat)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-C71A36?style=flat)
 ![PIT Mutation](https://img.shields.io/badge/Mutation_Testing-grey?style=flat)
 
 ### CI/CD & DevOps
