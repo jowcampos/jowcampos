@@ -1,47 +1,93 @@
-# Hi there 👋
+## Hi there 👋
 Focused on test automation, performance, and software availability. Experience with test strategies, CI pipeline integration, observability, and designing tests for REST APIs and mobile applications.
+----
+<h4 style="margin-bottom:0">Types Testing</h4>
 
----
+![White Box](https://img.shields.io/badge/White_Box_Testing-ffffff?style=flat&logoColor=black)
+![Gray Box](https://img.shields.io/badge/Gray_Box_Testing-808080?style=flat&logoColor=white)
+![Black Box](https://img.shields.io/badge/Black_Box_Testing-000000?style=flat&logoColor=white)
 
-#### Test Strategy & Coverage
-![Test Pyramid](https://img.shields.io/badge/Test_Pyramid-grey?style=flat)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-grey?style=flat)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-grey?style=flat)
-![Contract Testing](https://img.shields.io/badge/Contract_Testing-grey?style=flat)
-![E2E Testing](https://img.shields.io/badge/E2E_Testing-grey?style=flat)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-grey?style=flat)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-grey?style=flat)
-![BDD](https://img.shields.io/badge/BDD-23D96C?style=flat)
-![CT-MAT](https://img.shields.io/badge/CT-MAT-grey?style=flat)
+<h4 style="margin-bottom:0">Methodologies</h4>
 
-#### Frameworks & Tools
-![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robot-framework&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-00BFFF?style=flat)
-![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Maestro](https://img.shields.io/badge/Maestro-000000?style=flat)
+![TDD](https://img.shields.io/badge/TDD-555555?style=flat)
+![BDD](https://img.shields.io/badge/BDD-555555?style=flat)
+![ATDD](https://img.shields.io/badge/ATDD-555555?style=flat)
+![RCA](https://img.shields.io/badge/RCA-555555?style=flat)
+
+<h4 style="margin-bottom:0">Manual Testing</h4>
+
+![Test Cases](https://img.shields.io/badge/Test_Cases_%26_Scenarios-0288D1?style=flat)
+![Capability](https://img.shields.io/badge/Capability-00796B?style=flat)
+![Verification](https://img.shields.io/badge/Verification_%26_Validation-6A1B9A?style=flat)
+![Test Plan](https://img.shields.io/badge/Test_Plan-F57F17?style=flat)
+
+<h4 style="margin-bottom:0">Backend Automation</h4>
+
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![PIT Mutation](https://img.shields.io/badge/Mutation_Testing-grey?style=flat)
+![Postman](https://img.shields.io/badge/Postman_/_Newman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-#### CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<h4 style="margin-bottom:0">Mobile Automation</h4>
 
-### Observability & Monitoring
+![Maestro](https://img.shields.io/badge/Maestro-000000?style=flat)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
+![Detox](https://img.shields.io/badge/Detox-101010?style=flat)
+
+<h4 style="margin-bottom:0">Load and Performance</h4>
+
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+
+<h4 style="margin-bottom:0">Monitoring and Logs</h4>
+
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
-### Performance & Security
-![K6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat)
-![PA-DSS](https://img.shields.io/badge/PA--DSS-grey?style=flat)
-![PCI DSS](https://img.shields.io/badge/PCI_DSS-grey?style=flat)
+<h4 style="margin-bottom:0">CI/CD</h4>
 
-### Languages & Paradigms
+![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+
+<h4 style="margin-bottom:0">Security Testing</h4>
+
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
+![Attack Vectors](https://img.shields.io/badge/Attack_Vectors-CC0000?style=flat)
+
+<h4 style="margin-bottom:0">SDLC Delivery Model</h4>
+
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+![XP](https://img.shields.io/badge/Extreme_Programming-FF6600?style=flat)
+
+<h4 style="margin-bottom:0">Learn the fundamentals</h4>
+
+![Test Oracles](https://img.shields.io/badge/Test_Oracles-455A64?style=flat)
+![Test Prioritization](https://img.shields.io/badge/Test_Prioritization-37474F?style=flat)
+
+<h4 style="margin-bottom:0">Functional Testing</h4>
+
+![UAT](https://img.shields.io/badge/UAT-555555?style=flat)
+![Exploratory](https://img.shields.io/badge/Exploratory_Testing-555555?style=flat)
+![Sanity](https://img.shields.io/badge/Sanity_Testing-555555?style=flat)
+![Regression](https://img.shields.io/badge/Regression_Testing-555555?style=flat)
+![Smoke](https://img.shields.io/badge/Smoke_Testing-555555?style=flat)
+![Unit](https://img.shields.io/badge/Unit_Testing-555555?style=flat)
+![Integration](https://img.shields.io/badge/Integration_Testing-555555?style=flat)
+![Mocking](https://img.shields.io/badge/Mocking-555555?style=flat)
+
+<h4 style="margin-bottom:0">Non-Functional Testing</h4>
+
+![Load](https://img.shields.io/badge/Load_Testing-555555?style=flat)
+![Performance](https://img.shields.io/badge/Performance_Testing-555555?style=flat)
+![Stress](https://img.shields.io/badge/Stress_Testing-555555?style=flat)
+![Security](https://img.shields.io/badge/Security_Testing-555555?style=flat)
+![Accessibility](https://img.shields.io/badge/Accessibility_Testing-555555?style=flat)
+
+<h4 style="margin-bottom:0">Languages</h4>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -51,15 +97,4 @@ Focused on test automation, performance, and software availability. Experience w
 ---
 
 ### About My Approach
-
 I believe in building quality into every layer of the stack — not just at the UI level. My strategy follows the **test pyramid**: a solid base of fast, stable micro-level tests (unit and integration), a thoughtful middle layer of service/API tests, and a lean set of end-to-end tests that validate critical user journeys.
-
-I use **manual exploratory testing** to discover new test cases, then automate them to fuel reliable regression cycles — giving teams fast, continuous feedback without the bottleneck of large manual test runs.
-
-Key practices I champion:
-- **Shift-left testing**: catching defects early in the cycle, before they compound
-- **Coverage awareness**: tracking automation coverage across the full surface area of the application, including cross-functional requirements
-- **Anti-pattern vigilance**: avoiding ice-cream cone (too many E2E) and cupcake (duplicated tests across layers) patterns
-- **CI integration**: embedding automated tests in pipelines so feedback is available on every commit
-- **Observability-driven QA**: using monitoring and tracing data to inform test priorities and detect regressions in production
-
